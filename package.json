@@ -1,0 +1,24 @@
+{
+  "name": "event-simulate",
+  "version": "1.0.0",
+  "description": "event simulate",
+  "keywords": ["js event simulate"],
+  "homepage": "https://github.com/dxq613/event-simulate",
+  "author": "dxq613",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dxq613/event-simulate"
+  },
+  "bugs": {
+    "url": "https://github.com/dxq613/event-simulate/issues"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
