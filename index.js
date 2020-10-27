@@ -42,7 +42,10 @@
           mouseleave: 1,
           mousedown: 1,
           mouseup: 1,
-          mousemove: 1
+          mousemove: 1,
+          drag: 1,
+          dragstart: 1,
+          dragend: 1
       },
 
       msPointerEvents = {
